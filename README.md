@@ -5,7 +5,7 @@ Migrations do Laravel para criação de um banco de dados relacional
 com os três tipos de cardinalidade.
 
 ## 🎥 Vídeo de apresentação
-[link do vídeo aqui]
+[link do vídeo]
 
 ## 🗂️ Tabelas e Relacionamentos
 
