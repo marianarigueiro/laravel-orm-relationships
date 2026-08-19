@@ -5,7 +5,7 @@ Migrations do Laravel para criação de um banco de dados relacional
 com os três tipos de cardinalidade.
 
 ## 🎥 Vídeo de apresentação
-[link do vídeo]
+[[linvídeok do ](https://youtu.be/J_R4dXYDRoc)]
 
 ![Home do projeto](https://github.com/marianarigueiro/laravel-orm-relationships/blob/main/img.jpeg)
 
