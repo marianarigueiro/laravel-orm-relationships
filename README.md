@@ -7,7 +7,7 @@ com os três tipos de cardinalidade.
 ## 🎥 Vídeo de apresentação
 [link do vídeo]
 
-![Descrição da imagem](https://github.com/marianarigueiro/laravel-orm-relationships/blob/main/img.jpeg)
+![Home do projeto](https://github.com/marianarigueiro/laravel-orm-relationships/blob/main/img.jpeg)
 
 ## 🗂️ Tabelas e Relacionamentos
 
